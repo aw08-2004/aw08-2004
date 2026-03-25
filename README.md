@@ -173,8 +173,3 @@ Built authentication system using Firebase.
 
 ---
 
-## ⭐ Final Note
-
-> Most of my projects are built to **solve real problems in real environments** — not just to demonstrate code.
-
-If you value **efficiency, automation, and practical solutions**, we’ll get along well.
